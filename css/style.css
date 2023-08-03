@@ -80,12 +80,25 @@
    
 }
 
+.content button a {
+
+     text-decoration: none;
+     color:#fff;
+}
+
+.content .change:hover a {
+
+     color:#ff3753;
+}
+
 .content button span {
 
      width: 10px;
     
 
 }
+
+
 
 .launch-time {
 
